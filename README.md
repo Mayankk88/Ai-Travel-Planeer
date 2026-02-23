@@ -84,9 +84,3 @@ After backend deployment, update `VITE_API_URL` in Vercel environment variables.
 - **Backend:** Node.js, Express
 - **AI:** OpenAI API (optional)
 - **Styling:** Pure CSS with soft green theme
-
-## 👥 Team CODE ALPHA
-Built with ❤️ for INN-O-THON
-
-## 📄 License
-MIT
