@@ -1,5 +1,13 @@
 # ⚡ QUICKSTART - Get Running in 3 Minutes!
 
+## 🌐 Live Demo (Already Deployed!)
+
+**Try it now:** https://ai-travel-planeer.vercel.app
+
+No setup needed - just open and use! 🎉
+
+---
+
 ## For Team Members
 
 ### First Time Setup

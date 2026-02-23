@@ -15,6 +15,16 @@ AI-Based Travel Itinerary Planner: Generate personalized travel plans using pref
 - 📥 Downloadable itineraries
 - ⚡ Fast and intuitive
 
+## 🌐 Live Demo
+
+**Try it now:** https://ai-travel-planeer.vercel.app
+
+**API:** https://ai-travel-planeer.onrender.com
+
+**GitHub:** https://github.com/Mayankk88/Ai-Travel-Planeer
+
+---
+
 ## 🚀 Quick Start
 
 ### Prerequisites

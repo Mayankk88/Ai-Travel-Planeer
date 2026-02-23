@@ -4,6 +4,15 @@
 
 You have a **complete, production-ready AI Travel Planner** built specifically for the hackathon.
 
+## 🌐 Live Demo
+
+✅ **Application is LIVE!**
+- **Frontend:** https://ai-travel-planeer.vercel.app
+- **Backend:** https://ai-travel-planeer.onrender.com
+- **GitHub:** https://github.com/Mayankk88/Ai-Travel-Planeer
+
+---
+
 ## 🚀 What You Need to Do (In Order)
 
 ### Step 1: Get It Running (5 minutes)

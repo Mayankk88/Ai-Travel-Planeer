@@ -1,5 +1,14 @@
 # 🎤 Presentation Guide - CODE ALPHA
 
+## 🌐 Live Demo URLs
+
+**Show these to judges:**
+- **Live App:** https://ai-travel-planeer.vercel.app
+- **GitHub:** https://github.com/Mayankk88/Ai-Travel-Planeer
+- **API:** https://ai-travel-planeer.onrender.com
+
+---
+
 ## 1. Introduction (30 seconds)
 "Hello judges! We're Team CODE ALPHA, and we've built an AI-powered Travel Itinerary Planner that solves the problem of time-consuming and overwhelming trip planning."
 

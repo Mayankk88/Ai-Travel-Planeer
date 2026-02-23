@@ -115,10 +115,10 @@ Complete checklist before event
 
 ## 🚀 Deployment URLs
 
-After deploying, add your URLs here:
-- **Frontend:** [Your Vercel URL]
-- **Backend:** [Your Render URL]
-- **GitHub:** [Your Repo URL]
+✅ **Live Application:**
+- **Frontend:** https://ai-travel-planeer.vercel.app
+- **Backend:** https://ai-travel-planeer.onrender.com
+- **GitHub:** https://github.com/Mayankk88/Ai-Travel-Planeer
 
 ## 💡 Pro Tips
 

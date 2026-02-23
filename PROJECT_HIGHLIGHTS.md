@@ -1,5 +1,11 @@
 # 🏆 Project Highlights - CODE ALPHA
 
+## 🏆 Project Highlights - CODE ALPHA
+
+**🌐 Live Demo:** https://ai-travel-planeer.vercel.app
+
+---
+
 ## 🎯 Why This Project Wins
 
 ### 1. Solves Real Problem ✅
