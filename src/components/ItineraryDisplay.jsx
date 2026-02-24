@@ -24,7 +24,7 @@ function ItineraryDisplay({ itinerary }) {
           <span className="summary-icon">💰</span>
           <div>
             <p className="summary-label">Budget</p>
-            <p className="summary-value">${itinerary.budget}</p>
+            <p className="summary-value">₹{itinerary.budget}</p>
           </div>
         </div>
       </div>
@@ -43,7 +43,7 @@ function ItineraryDisplay({ itinerary }) {
                   <div className="activity-details">
                     <h4>{activity.title}</h4>
                     <p>{activity.description}</p>
-                    <span className="activity-cost">💵 ${activity.estimatedCost}</span>
+                    <span className="activity-cost">💵 ₹{activity.estimatedCost}</span>
                   </div>
                 </div>
               ))}

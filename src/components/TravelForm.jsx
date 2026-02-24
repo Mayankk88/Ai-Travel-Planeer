@@ -56,15 +56,15 @@ function TravelForm({ onSubmit, loading }) {
           </div>
 
           <div className="form-group">
-            <label htmlFor="budget">Budget (USD)</label>
+            <label htmlFor="budget">Budget (₹ INR)</label>
             <input
               type="number"
               id="budget"
               name="budget"
               value={formData.budget}
               onChange={handleChange}
-              placeholder="e.g., 2000"
-              min="100"
+              placeholder="e.g., 50000"
+              min="1000"
               required
             />
           </div>

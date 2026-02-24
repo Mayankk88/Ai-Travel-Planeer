@@ -5,7 +5,7 @@
 
 - **Destination:** Bali, Indonesia
 - **Duration:** 7 days
-- **Budget:** $1500
+- **Budget:** ₹1,25,000
 - **Interests:** beaches, culture, adventure
 - **Travel Style:** Budget-Friendly
 
@@ -18,7 +18,7 @@
 
 - **Destination:** Dubai, UAE
 - **Duration:** 5 days
-- **Budget:** $8000
+- **Budget:** ₹6,50,000
 - **Interests:** luxury, shopping, fine dining
 - **Travel Style:** Luxury
 
@@ -31,7 +31,7 @@
 
 - **Destination:** Kyoto, Japan
 - **Duration:** 6 days
-- **Budget:** $3000
+- **Budget:** ₹2,50,000
 - **Interests:** temples, traditional arts, tea ceremony, gardens
 - **Travel Style:** Balanced
 
@@ -44,7 +44,7 @@
 
 - **Destination:** Queenstown, New Zealand
 - **Duration:** 5 days
-- **Budget:** $4000
+- **Budget:** ₹3,30,000
 - **Interests:** hiking, bungee jumping, skiing, water sports
 - **Travel Style:** Balanced
 
@@ -57,7 +57,7 @@
 
 - **Destination:** Bangkok, Thailand
 - **Duration:** 4 days
-- **Budget:** $1200
+- **Budget:** ₹1,00,000
 - **Interests:** street food, markets, temples, nightlife
 - **Travel Style:** Budget-Friendly
 
