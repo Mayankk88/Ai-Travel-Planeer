@@ -15,9 +15,10 @@ export async function generateItinerary(data) {
 async function generateWithOpenAI(data) {
   const { destination, duration, budget, interests, travelStyle } = data
   
-  const prompt = `Create a detailed ${duration}-day travel itinerary for ${destination} with a budget of $${budget}. 
+  const prompt = `Create a detailed ${duration}-day travel itinerary for ${destination} with a budget of ₹${budget} INR. 
   The traveler is interested in: ${interests}. 
   Travel style: ${travelStyle}.
+  All costs should be in Indian Rupees (₹).
   
   Return a JSON object with this structure:
   {
@@ -33,7 +34,7 @@ async function generateWithOpenAI(data) {
             "time": "09:00 AM",
             "title": "Activity name",
             "description": "Activity description",
-            "estimatedCost": 50
+            "estimatedCost": 5000
           }
         ]
       }
@@ -47,7 +48,7 @@ async function generateWithOpenAI(data) {
       {
         model: 'gpt-3.5-turbo',
         messages: [
-          { role: 'system', content: 'You are a travel planning expert. Always respond with valid JSON.' },
+          { role: 'system', content: 'You are a travel planning expert for India. Always respond with valid JSON. All costs must be in Indian Rupees (₹).' },
           { role: 'user', content: prompt }
         ],
         temperature: 0.7
